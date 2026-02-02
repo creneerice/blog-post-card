@@ -3,6 +3,8 @@
 text-align: center;
 background-color: white;
 width: 500px;
+  margin-left: 35%;
+margin-right: 50%;
 }
 
 .post-img {
@@ -40,4 +42,5 @@ padding: 10px;
 
 .read-more:hover {
     background-color: red;
+
 }
